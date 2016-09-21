@@ -1,6 +1,5 @@
 require 'bundler/setup'
 require 'date'
-require '../lib/version.rb'
 
 Bundler.require(:default, :development, :test)
 
