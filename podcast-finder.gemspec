@@ -2,14 +2,14 @@
 Gem::Specification.new do |spec|
   spec.name           = 'podcast-finder'
   spec.platform       = Gem::Platform::RUBY
-  spec.version        = '0.1.0'
+  spec.version        = '10.1.0'
   spec.license        = 'MIT'
 
   spec.summary        = "CLI gem for finding NPR podcasts"
   spec.description    =
     "Podcast Finder is a CLI gem that displays ongoing podcasts by NPR and NPR-affiliated stations. Browse by category, view podcast descriptions and episodes, and get links to listen online."
-  spec.authors        = ["Elyse Klova"]
-  spec.email          = 'elyse.klova@gmail.com'
+  spec.authors        = ["Elyse Klova TEST"]
+  spec.email          = 'corinna@flatironschool.com'
 
   spec.homepage       = 'https://github.com/klovae/podcast-finder-gem'
 
